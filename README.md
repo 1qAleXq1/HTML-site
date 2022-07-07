@@ -1,4 +1,4 @@
-This favicon was generated using the following font:
+# This favicon was generated using the following font:
 
 - Font Title: Knewave
 - Font Author: Copyright (c) 2011 by Tyler Finck. All rights reserved.
